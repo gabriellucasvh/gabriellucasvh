@@ -14,7 +14,8 @@ Olá, meu nome é Gabriel. Sou estudante de Análise e Desenvolvimento de Sistem
 ## Linguagens e tecnologias
 
 - JavaScript
-- React JS
+- NextJs
+- ReactJS
 - Vue
 - Tailwind
 - NodeJs
