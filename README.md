@@ -76,7 +76,7 @@ Portifólio: [gabriellucasvh.vercel.app](https://gabriellucasvh.vercel.app)
   <a href="https://www.linkedin.com/in/gabriellucasvh/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
-  <a href="gabriellucasvh@gmail.com" target="_blank">
+  <a href="mailto:gabriellucasvh@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
   <a href="https://discord.com/users/337261664086786052" target="_blank">
