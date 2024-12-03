@@ -4,7 +4,7 @@
 
 <p align="left">Olá, meu nome é Gabriel. Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em front-end. Estou comprometido em aprimorar minhas habilidades e tornar-me um desenvolvedor excelente. Agradeço qualquer feedback que possa ajudar a melhorar ainda mais o meu trabalho.</p>
 
-Portifólio: [gabriellucasvh.vercel.app](https://gabriellucasvh.vercel.app)
+Portfolio: [gabriellucasvh.vercel.app](https://gabriellucasvh.vercel.app)
 
 ###
 
